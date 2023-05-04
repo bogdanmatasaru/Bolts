@@ -26,6 +26,10 @@
 #import "BFURL.h"
 #import "BFWebViewAppLinkResolver.h"
 
+#import "BFAppLinkReturnToRefererView_Internal.h"
+#import "BFMeasurementEvent_Internal.h"
+#import "BFAppLink_Internal.h"
+
 
 NS_ASSUME_NONNULL_BEGIN
 
